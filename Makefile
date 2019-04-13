@@ -1,13 +1,3 @@
-##
-## Makefile for  in /home/antoine/Rendu/PSU_Concurrency/PSU_2016_philo
-## 
-## Made by Antoine
-## Login   <antoine.roche@epitech.eu>
-## 
-## Started on  Mon Mar  6 15:55:52 2017 Antoine
-## Last update Wed Mar 15 16:28:36 2017 Simon
-##
-
 NAME	= philo
 
 CC	= gcc

@@ -1,13 +1,3 @@
-/*
-** philo.h for philo in /home/erwan/Code/teck/C/PSU_2016_philo
-** 
-** Made by Simon
-** Login   <erwan.simon@epitech.eu>
-** 
-** Started on  Mon Mar 13 10:43:40 2017 Simon
-** Last update Sun Mar 19 13:00:33 2017 Simon
-*/
-
 #ifndef PHILO_H_
 # define PHILO_H_
 

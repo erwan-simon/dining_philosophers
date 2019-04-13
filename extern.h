@@ -1,13 +1,3 @@
-/*
-** extern.h for philo in /home/erwan/Code/teck/C/PSU_2016_philo
-** 
-** Made by Simon
-** Login   <erwan.simon@epitech.eu>
-** 
-** Started on  Tue Mar 14 17:17:49 2017 Simon
-** Last update Sun Mar 19 13:00:17 2017 Simon
-*/
-
 #ifndef __LIBRICEFEREE_EXTERN__
 # define __LIBRICEFEREE_EXTERN__
 

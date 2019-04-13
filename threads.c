@@ -1,13 +1,3 @@
-/*
-** threads.c for philo in /home/erwan/Code/teck/C/PSU_2016_philo
-** 
-** Made by Simon
-** Login   <erwan.simon@epitech.eu>
-** 
-** Started on  Tue Mar 14 21:05:58 2017 Simon
-** Last update Sun Mar 19 13:07:45 2017 Simon
-*/
-
 #include <pthread.h>
 #include <errno.h>
 #include "extern.h"

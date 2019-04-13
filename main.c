@@ -1,13 +1,3 @@
-/*
-** main.c for  in /home/antoine/Rendu/PSU_Concurrency/PSU_2016_philo
-** 
-** Made by Antoine
-** Login   <antoine.roche@epitech.eu>
-** 
-** Started on  Mon Mar  6 15:55:39 2017 Antoine
-** Last update Sun Mar 19 12:57:48 2017 Simon
-*/
-
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>

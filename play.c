@@ -1,13 +1,3 @@
-/*
-** play.c for philo in /home/erwan/Code/teck/C/PSU_2016_philo
-** 
-** Made by Simon
-** Login   <erwan.simon@epitech.eu>
-** 
-** Started on  Fri Mar 10 16:37:26 2017 Simon
-** Last update Sun Mar 19 13:08:31 2017 Simon
-*/
-
 #include <stdlib.h>
 #include <pthread.h>
 #include "philo.h"
